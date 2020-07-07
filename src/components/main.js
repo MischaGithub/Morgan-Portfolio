@@ -7,7 +7,7 @@ import About from "./aboutme";
 import Contact from "./contactme";
 const Main = () => (
   <Switch>
-    <Route exact path="/Morgan-Portfolio" component={Portfolio} />
+    <Route exact path="/Morgan-Portfolio/portfolio" component={Portfolio} />
     <Route path="/Morgan-Portfolio/collection" component={Collection} />
     <Route path="/Morgan-Portfolio/aboutme" component={About} />
     <Route path="/Morgan-Portfolio/contactme" component={Contact} />
