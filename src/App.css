@@ -24,15 +24,21 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.container {
+  text-align: center;
+  padding-top: 5em;
+  color: white;
+  justify-content: center;
+  display: flex;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container h2 {
+  border: 9px solid whitesmoke;
+  font-size: 2.3em;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
 }

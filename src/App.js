@@ -4,6 +4,8 @@ import { Layout, Header, Navigation, Drawer, Content } from "react-mdl";
 
 import Main from "./components/main";
 
+import { Link } from "react-router-dom";
+
 class App extends Component {
   render() {
     return (
@@ -17,18 +19,18 @@ class App extends Component {
           >
             <Header transparent title="Morgan" style={{ color: "white" }}>
               <Navigation>
-                <a href="/">Portfolio</a>
-                <a href="/">Collection</a>
-                <a href="/">About Me</a>
-                <a href="/">Contact Me</a>
+                <Link to="/portfolio">Portfolio</Link>
+                <Link to="/collection">Collection</Link>
+                <Link to="/aboutme">About Me</Link>
+                <Link to="/contactme">Contact Me</Link>
               </Navigation>
             </Header>
             <Drawer title="Title">
               <Navigation>
-                <a href="/">Portfolio</a>
-                <a href="/">Skills</a>
-                <a href="/">About Me</a>
-                <a href="/">Contact Me</a>
+                <Link to="/portfolio">Portfolio</Link>
+                <Link to="/collection">Collection</Link>
+                <Link to="/aboutme">About Me</Link>
+                <Link to="/contactme">Contact Me</Link>
               </Navigation>
             </Drawer>
 

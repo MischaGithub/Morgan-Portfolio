@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class collection extends Component {
+export class Collection extends Component {
   render() {
     return (
       <div>
@@ -10,4 +10,4 @@ export class collection extends Component {
   }
 }
 
-export default collection;
+export default Collection;
