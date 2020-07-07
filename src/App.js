@@ -20,17 +20,17 @@ class App extends Component {
             <Header transparent title="Morgan" style={{ color: "white" }}>
               <Navigation>
                 <Link to="/Morgan-Portfolio">Portfolio</Link>
-                <Link to="/collection">Collection</Link>
-                <Link to="/aboutme">About Me</Link>
-                <Link to="/contactme">Contact Me</Link>
+                <Link to="/Morgan-Portfolio/collection">Collection</Link>
+                <Link to="/Morgan-Portfolio/aboutme">About Me</Link>
+                <Link to="/Morgan-Portfolio/contactme">Contact Me</Link>
               </Navigation>
             </Header>
             <Drawer title="Title">
               <Navigation>
-                <Link to="/portfolio">Portfolio</Link>
-                <Link to="/collection">Collection</Link>
-                <Link to="/aboutme">About Me</Link>
-                <Link to="/contactme">Contact Me</Link>
+                <Link to="/Morgan-Portfolio">Portfolio</Link>
+                <Link to="/Morgan-Portfolio/collection">Collection</Link>
+                <Link to="/Morgan-Portfolio/aboutme">About Me</Link>
+                <Link to="/Morgan-Portfolio/contactme">Contact Me</Link>
               </Navigation>
             </Drawer>
 
