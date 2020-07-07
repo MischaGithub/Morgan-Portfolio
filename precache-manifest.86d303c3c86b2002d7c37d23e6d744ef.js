@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ae9493b75d487a216a587cdcfabbf94",
+    "revision": "ce5d6e6076d71c871af5bddba7c0d952",
     "url": "/MischaGithub/morganportolio.io/Morgan-Portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "35c56d6e4e9154b8c5ce",
+    "revision": "3336c4e98d1cdf186d9e",
     "url": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/css/main.71745e1c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/2.f684952a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35c56d6e4e9154b8c5ce",
-    "url": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/main.ae644bbf.chunk.js"
+    "revision": "3336c4e98d1cdf186d9e",
+    "url": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/main.cb0d9f57.chunk.js"
   },
   {
     "revision": "65d6330db046ff6252e0",
