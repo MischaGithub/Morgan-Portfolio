@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/css/main.71745e1c.chunk.css",
-    "main.js": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/main.cb0d9f57.chunk.js",
-    "main.js.map": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/main.cb0d9f57.chunk.js.map",
-    "runtime-main.js": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/runtime-main.8bde4ab0.js",
-    "runtime-main.js.map": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/runtime-main.8bde4ab0.js.map",
-    "static/css/2.e4346227.chunk.css": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.f684952a.chunk.js": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/2.f684952a.chunk.js",
-    "static/js/2.f684952a.chunk.js.map": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/2.f684952a.chunk.js.map",
-    "index.html": "/MischaGithub/morganportolio.io/Morgan-Portfolio/index.html",
-    "precache-manifest.86d303c3c86b2002d7c37d23e6d744ef.js": "/MischaGithub/morganportolio.io/Morgan-Portfolio/precache-manifest.86d303c3c86b2002d7c37d23e6d744ef.js",
-    "service-worker.js": "/MischaGithub/morganportolio.io/Morgan-Portfolio/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.71745e1c.chunk.css.map": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/css/main.71745e1c.chunk.css.map",
-    "static/js/2.f684952a.chunk.js.LICENSE.txt": "/MischaGithub/morganportolio.io/Morgan-Portfolio/static/js/2.f684952a.chunk.js.LICENSE.txt"
+    "main.css": "/Morgan-Portfolio/static/css/main.71745e1c.chunk.css",
+    "main.js": "/Morgan-Portfolio/static/js/main.26dbc085.chunk.js",
+    "main.js.map": "/Morgan-Portfolio/static/js/main.26dbc085.chunk.js.map",
+    "runtime-main.js": "/Morgan-Portfolio/static/js/runtime-main.a5a93879.js",
+    "runtime-main.js.map": "/Morgan-Portfolio/static/js/runtime-main.a5a93879.js.map",
+    "static/css/2.e4346227.chunk.css": "/Morgan-Portfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.f684952a.chunk.js": "/Morgan-Portfolio/static/js/2.f684952a.chunk.js",
+    "static/js/2.f684952a.chunk.js.map": "/Morgan-Portfolio/static/js/2.f684952a.chunk.js.map",
+    "index.html": "/Morgan-Portfolio/index.html",
+    "precache-manifest.14ec6f9403b4ac4cd08c3b48573d2723.js": "/Morgan-Portfolio/precache-manifest.14ec6f9403b4ac4cd08c3b48573d2723.js",
+    "service-worker.js": "/Morgan-Portfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/Morgan-Portfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.71745e1c.chunk.css.map": "/Morgan-Portfolio/static/css/main.71745e1c.chunk.css.map",
+    "static/js/2.f684952a.chunk.js.LICENSE.txt": "/Morgan-Portfolio/static/js/2.f684952a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bde4ab0.js",
+    "static/js/runtime-main.a5a93879.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.f684952a.chunk.js",
     "static/css/main.71745e1c.chunk.css",
-    "static/js/main.cb0d9f57.chunk.js"
+    "static/js/main.26dbc085.chunk.js"
   ]
 }
