@@ -78,7 +78,7 @@
 
 /* horizontal rule*/
 .about-grid hr {
-  border-top: 4px solid black;
+  border-top: 4px solid white;
   width: 60%;
   margin: auto;
 }
