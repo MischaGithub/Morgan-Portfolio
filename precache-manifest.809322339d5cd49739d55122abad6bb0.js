@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5618607a5318a07b1e776d3c94bc3717",
+    "revision": "b8cf2bb1ed4a936dc295306c528ce169",
     "url": "/Morgan-Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Morgan-Portfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "8612c45f3b883fa0ba09",
-    "url": "/Morgan-Portfolio/static/css/main.ff2fe963.chunk.css"
+    "revision": "37fec81ea0127a8547af",
+    "url": "/Morgan-Portfolio/static/css/main.5cd38d34.chunk.css"
   },
   {
     "revision": "6fb8c30c0b586b2fe0f1",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Morgan-Portfolio/static/js/2.d3a29f10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8612c45f3b883fa0ba09",
+    "revision": "37fec81ea0127a8547af",
     "url": "/Morgan-Portfolio/static/js/main.5355700f.chunk.js"
   },
   {
