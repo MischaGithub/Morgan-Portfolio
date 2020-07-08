@@ -27,7 +27,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.3em",
+                        fontSize: "1.5em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
@@ -42,7 +42,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.3em",
+                        fontSize: "1.5em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
@@ -57,7 +57,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.3em",
+                        fontSize: "1.5em",
                         fontFamily: "Anton",
                         color: "white",
                       }}

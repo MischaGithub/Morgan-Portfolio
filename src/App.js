@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 import { Layout, Header, Navigation, Drawer, Content } from "react-mdl";
+import { Container } from "react-bootstrap";
 
 import Main from "./components/main";
 
@@ -9,7 +10,7 @@ import { Link } from "react-router-dom";
 class App extends Component {
   render() {
     return (
-      <div className="App-container">
+      <Container fluid>
         <div style={{ height: "100vh", position: "relative" }}>
           <Layout
             style={{
@@ -41,7 +42,7 @@ class App extends Component {
             </Content>
           </Layout>
         </div>
-      </div>
+      </Container>
     );
   }
 }
