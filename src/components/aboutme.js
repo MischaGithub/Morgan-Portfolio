@@ -29,7 +29,11 @@ class AboutMe extends Component {
               <List>
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "1.5em", fontFamily: "Anton" }}
+                    style={{
+                      fontSize: "1.5em",
+                      fontFamily: "Anton",
+                      color: "white",
+                    }}
                   >
                     <i className="fa fa-instagram aria-hidden" />
                     photo.graphybymorgan
@@ -38,7 +42,11 @@ class AboutMe extends Component {
 
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "1.5em", fontFamily: "Anton" }}
+                    style={{
+                      fontSize: "1.5em",
+                      fontFamily: "Anton",
+                      color: "white",
+                    }}
                   >
                     <i className="fa fa-whatsapp aria-hidden" />
                     060 415 0135
@@ -47,7 +55,11 @@ class AboutMe extends Component {
 
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "1.5em", fontFamily: "Anton" }}
+                    style={{
+                      fontSize: "1.5em",
+                      fontFamily: "Anton",
+                      color: "white",
+                    }}
                   >
                     <i className="fa fa-facebook-square aria-hidden" />
                     Morgan Achmat
@@ -56,7 +68,11 @@ class AboutMe extends Component {
 
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "1.5em", fontFamily: "Anton" }}
+                    style={{
+                      fontSize: "1.5em",
+                      fontFamily: "Anton",
+                      color: "white",
+                    }}
                   >
                     <i className="fa fa-envelope aria-hidden" />
                     morganachmat5@gmail.com

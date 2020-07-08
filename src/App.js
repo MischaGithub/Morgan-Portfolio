@@ -14,10 +14,10 @@ class App extends Component {
           <Layout
             style={{
               background:
-                "url(https://images.wallpaperscraft.com/image/camera_photographer_smoke_126548_1280x1024.jpg) center / cover",
+                "url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/57/23/1657a053bfefb43.jpg) center / cover",
             }}
           >
-            <Header transparent title="Morgan" style={{ color: "black" }}>
+            <Header transparent title="Morgan">
               <Navigation>
                 <Link to="/Morgan-Portfolio">Portfolio</Link>
                 <Link to="/Morgan-Portfolio/collection">Gallery</Link>
