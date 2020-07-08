@@ -31,7 +31,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.02em",
+                        fontSize: "1.05em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
@@ -46,7 +46,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.02em",
+                        fontSize: "1.05em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
@@ -61,28 +61,13 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.02em",
+                        fontSize: "1.05em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
                     >
                       <i className="fa fa-facebook-square aria-hidden" />
                       Morgan Achmat
-                    </ListItemContent>
-                  </ListItem>
-                </div>
-
-                <div className="about-list">
-                  <ListItem>
-                    <ListItemContent
-                      style={{
-                        fontSize: "1.02em",
-                        fontFamily: "Anton",
-                        color: "white",
-                      }}
-                    >
-                      <i className="fa fa-envelope aria-hidden" />
-                      morganachmat5@gmail.com
                     </ListItemContent>
                   </ListItem>
                 </div>

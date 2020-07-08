@@ -51,6 +51,7 @@
   justify-content: center;
   width: 100%;
   height: 80%;
+  padding-left: 1em;
 }
 
 .about-container h2 {
@@ -93,7 +94,7 @@
 .about-list i {
   margin: auto;
   color: gold;
-  font-size: 40px;
+  font-size: 50px;
   padding-left: 1em;
   padding-right: 0.3em;
 }
