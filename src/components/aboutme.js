@@ -6,14 +6,14 @@ import morgan from "../assets/about_morgan.jpg";
 class AboutMe extends Component {
   render() {
     return (
-      <div className="about-container">
+      <div className="about-container col-sm">
         <Grid className="about-grid">
           <Cell col={6}>
             <h2>Morgan Achmat</h2>
             <img
               src={morgan}
               alt="avatar"
-              style={{ minWidth: "300px", height: "400px" }}
+              style={{ minWidth: "300px", height: "300px" }}
             />
             <p>
               I am Morgan Achmat. I'm 15 years old, I'm a grade 10 student. I am
@@ -27,57 +27,65 @@ class AboutMe extends Component {
             <hr />
             <div className="about-list">
               <List>
-                <ListItem>
-                  <ListItemContent
-                    style={{
-                      fontSize: "1.5em",
-                      fontFamily: "Anton",
-                      color: "white",
-                    }}
-                  >
-                    <i className="fa fa-instagram aria-hidden" />
-                    photo.graphybymorgan
-                  </ListItemContent>
-                </ListItem>
+                <div className="about-list">
+                  <ListItem>
+                    <ListItemContent
+                      style={{
+                        fontSize: "1.02em",
+                        fontFamily: "Anton",
+                        color: "white",
+                      }}
+                    >
+                      <i className="fa fa-instagram aria-hidden" />
+                      photo.graphybymorgan
+                    </ListItemContent>
+                  </ListItem>
+                </div>
 
-                <ListItem>
-                  <ListItemContent
-                    style={{
-                      fontSize: "1.5em",
-                      fontFamily: "Anton",
-                      color: "white",
-                    }}
-                  >
-                    <i className="fa fa-whatsapp aria-hidden" />
-                    060 415 0135
-                  </ListItemContent>
-                </ListItem>
+                <div className="about-list">
+                  <ListItem>
+                    <ListItemContent
+                      style={{
+                        fontSize: "1.02em",
+                        fontFamily: "Anton",
+                        color: "white",
+                      }}
+                    >
+                      <i className="fa fa-whatsapp aria-hidden" />
+                      060 415 0135
+                    </ListItemContent>
+                  </ListItem>
+                </div>
 
-                <ListItem>
-                  <ListItemContent
-                    style={{
-                      fontSize: "1.5em",
-                      fontFamily: "Anton",
-                      color: "white",
-                    }}
-                  >
-                    <i className="fa fa-facebook-square aria-hidden" />
-                    Morgan Achmat
-                  </ListItemContent>
-                </ListItem>
+                <div className="about-list">
+                  <ListItem>
+                    <ListItemContent
+                      style={{
+                        fontSize: "1.02em",
+                        fontFamily: "Anton",
+                        color: "white",
+                      }}
+                    >
+                      <i className="fa fa-facebook-square aria-hidden" />
+                      Morgan Achmat
+                    </ListItemContent>
+                  </ListItem>
+                </div>
 
-                <ListItem>
-                  <ListItemContent
-                    style={{
-                      fontSize: "1.5em",
-                      fontFamily: "Anton",
-                      color: "white",
-                    }}
-                  >
-                    <i className="fa fa-envelope aria-hidden" />
-                    morganachmat5@gmail.com
-                  </ListItemContent>
-                </ListItem>
+                <div className="about-list">
+                  <ListItem>
+                    <ListItemContent
+                      style={{
+                        fontSize: "1.02em",
+                        fontFamily: "Anton",
+                        color: "white",
+                      }}
+                    >
+                      <i className="fa fa-envelope aria-hidden" />
+                      morganachmat5@gmail.com
+                    </ListItemContent>
+                  </ListItem>
+                </div>
               </List>
             </div>
           </Cell>
