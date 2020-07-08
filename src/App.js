@@ -9,10 +9,11 @@ import { Link } from "react-router-dom";
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App-container">
         <div style={{ height: "100vh", position: "relative" }}>
           <Layout
             style={{
+              color: "white",
               background:
                 "url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/57/23/1657a053bfefb43.jpg) center / cover",
             }}

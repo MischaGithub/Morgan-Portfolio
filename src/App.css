@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  display: flex;
+}
+
+.App-container > * {
+  -webkit-flex: 1 1 0;
+  -ms-flex: 1 1 0;
+  flex: 1 1 0;
 }
 
 .App-logo {
@@ -53,6 +60,12 @@
   height: 80%;
 }
 
+.about-container > * {
+  -webkit-flex: 1 1 0;
+  -ms-flex: 1 1 0;
+  flex: 1 1 0;
+}
+
 .about-container h2 {
   font-family: "Anton", sans-serif;
 }
@@ -67,6 +80,20 @@
   color: white;
   border: 2px;
   margin-bottom: 20px;
+}
+
+.about-img {
+  width: 320px;
+  height: 400px;
+  -webkit-flex: 1 1 0;
+  -ms-flex: 1 1 0;
+  flex: 1 1 0;
+}
+
+.about-grid > * {
+  -webkit-flex: 1 1 0;
+  -ms-flex: 1 1 0;
+  flex: 1 1 0;
 }
 
 /* h2 headings*/
@@ -94,8 +121,8 @@
   margin: auto;
   color: gold;
   font-size: 50px;
-  padding-left: 1em;
-  padding-right: 0.3em;
+  padding-left: 1.5em;
+  padding-right: 0.5em;
 }
 
 /* temp media query */

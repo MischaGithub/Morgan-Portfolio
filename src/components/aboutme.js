@@ -6,15 +6,11 @@ import morgan from "../assets/about_morgan.jpg";
 class AboutMe extends Component {
   render() {
     return (
-      <div className="about-container col-sm">
+      <div className="about-container ">
         <Grid className="about-grid">
           <Cell col={6}>
             <h2>Morgan Achmat</h2>
-            <img
-              src={morgan}
-              alt="avatar"
-              style={{ minWidth: "300px", height: "300px" }}
-            />
+            <img src={morgan} alt="avatar" className="about-img" />
             <p>
               I am Morgan Achmat. I'm 15 years old, I'm a grade 10 student. I am
               very artistic and creative. I am also a ballroom and Latin
@@ -31,7 +27,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.05em",
+                        fontSize: "1.3em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
@@ -46,7 +42,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.05em",
+                        fontSize: "1.3em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
@@ -61,7 +57,7 @@ class AboutMe extends Component {
                   <ListItem>
                     <ListItemContent
                       style={{
-                        fontSize: "1.05em",
+                        fontSize: "1.3em",
                         fontFamily: "Anton",
                         color: "white",
                       }}
