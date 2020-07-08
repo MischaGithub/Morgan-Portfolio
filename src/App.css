@@ -39,3 +39,57 @@
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   padding: 1.5em;
 }
+
+.about-container {
+  border: 9px solid black;
+  font-size: 2.3em;
+  background: transparent;
+  color: #010203;
+  margin: auto;
+}
+
+.about-container h2 {
+  font-family: "Anton", sans-serif;
+}
+
+.about-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 80%;
+  background: transparent;
+  color: black;
+  border: 2px;
+  margin-bottom: 20px;
+}
+
+/* h2 headings*/
+.about-grid h2 {
+  font-family: "Anton", sans-serif;
+}
+
+/*  p tags*/
+.about-grid p {
+  font-family: "Oxygen", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 1em;
+  margin: auto;
+}
+
+/* horizontal rule*/
+.about-grid hr {
+  border-top: 4px solid black;
+  width: 60%;
+  margin: auto;
+}
+
+.about-list i {
+  color: black;
+  font-size: 66px;
+  padding-left: 1em;
+  padding-right: 0.5em;
+}
+
+.about-list {
+}

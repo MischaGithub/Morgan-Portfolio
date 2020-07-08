@@ -17,18 +17,18 @@ class App extends Component {
                 "url(https://images.wallpaperscraft.com/image/camera_photographer_smoke_126548_1280x1024.jpg) center / cover",
             }}
           >
-            <Header transparent title="Morgan" style={{ color: "white" }}>
+            <Header transparent title="Morgan" style={{ color: "black" }}>
               <Navigation>
                 <Link to="/Morgan-Portfolio">Portfolio</Link>
-                <Link to="/Morgan-Portfolio/collection">Collection</Link>
+                <Link to="/Morgan-Portfolio/collection">Gallery</Link>
                 <Link to="/Morgan-Portfolio/aboutme">About Me</Link>
                 <Link to="/Morgan-Portfolio/contactme">Contact Me</Link>
               </Navigation>
             </Header>
-            <Drawer title="Title">
+            <Drawer title="Morgan" style={{ color: "black" }}>
               <Navigation>
                 <Link to="/Morgan-Portfolio">Portfolio</Link>
-                <Link to="/Morgan-Portfolio/collection">Collection</Link>
+                <Link to="/Morgan-Portfolio/collection">Gallery</Link>
                 <Link to="/Morgan-Portfolio/aboutme">About Me</Link>
                 <Link to="/Morgan-Portfolio/contactme">Contact Me</Link>
               </Navigation>
