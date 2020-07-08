@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Morgan-Portfolio/static/css/main.286c5709.chunk.css",
-    "main.js": "/Morgan-Portfolio/static/js/main.89cd6fb8.chunk.js",
-    "main.js.map": "/Morgan-Portfolio/static/js/main.89cd6fb8.chunk.js.map",
+    "main.css": "/Morgan-Portfolio/static/css/main.6ca0078d.chunk.css",
+    "main.js": "/Morgan-Portfolio/static/js/main.7fd8edfc.chunk.js",
+    "main.js.map": "/Morgan-Portfolio/static/js/main.7fd8edfc.chunk.js.map",
     "runtime-main.js": "/Morgan-Portfolio/static/js/runtime-main.a5a93879.js",
     "runtime-main.js.map": "/Morgan-Portfolio/static/js/runtime-main.a5a93879.js.map",
     "static/css/2.e4346227.chunk.css": "/Morgan-Portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.f684952a.chunk.js": "/Morgan-Portfolio/static/js/2.f684952a.chunk.js",
-    "static/js/2.f684952a.chunk.js.map": "/Morgan-Portfolio/static/js/2.f684952a.chunk.js.map",
+    "static/js/2.d3a29f10.chunk.js": "/Morgan-Portfolio/static/js/2.d3a29f10.chunk.js",
+    "static/js/2.d3a29f10.chunk.js.map": "/Morgan-Portfolio/static/js/2.d3a29f10.chunk.js.map",
     "index.html": "/Morgan-Portfolio/index.html",
-    "precache-manifest.5b2c9a997f2d90a3387b9d541ade4725.js": "/Morgan-Portfolio/precache-manifest.5b2c9a997f2d90a3387b9d541ade4725.js",
+    "precache-manifest.1660dcd847a52d59a7b3c53489242e28.js": "/Morgan-Portfolio/precache-manifest.1660dcd847a52d59a7b3c53489242e28.js",
     "service-worker.js": "/Morgan-Portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/Morgan-Portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.286c5709.chunk.css.map": "/Morgan-Portfolio/static/css/main.286c5709.chunk.css.map",
-    "static/js/2.f684952a.chunk.js.LICENSE.txt": "/Morgan-Portfolio/static/js/2.f684952a.chunk.js.LICENSE.txt"
+    "static/css/main.6ca0078d.chunk.css.map": "/Morgan-Portfolio/static/css/main.6ca0078d.chunk.css.map",
+    "static/js/2.d3a29f10.chunk.js.LICENSE.txt": "/Morgan-Portfolio/static/js/2.d3a29f10.chunk.js.LICENSE.txt",
+    "static/media/about_morgan.jpg": "/Morgan-Portfolio/static/media/about_morgan.efbd4397.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a5a93879.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.f684952a.chunk.js",
-    "static/css/main.286c5709.chunk.css",
-    "static/js/main.89cd6fb8.chunk.js"
+    "static/js/2.d3a29f10.chunk.js",
+    "static/css/main.6ca0078d.chunk.css",
+    "static/js/main.7fd8edfc.chunk.js"
   ]
 }
